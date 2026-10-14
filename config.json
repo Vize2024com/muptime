@@ -9,22 +9,8 @@
       ]
     },
     {
-      "name": "Drishti AI",
-      "url": "https://drishtiai.astrologeryogendra.in/",
-      "expectedStatus": [
-        200
-      ]
-    },
-    {
       "name": "Unique News Online",
       "url": "https://www.uniquenewsonline.com/",
-      "expectedStatus": [
-        200
-      ]
-    },
-    {
-      "name": "Astro Yogendraa",
-      "url": "https://astrologeryogendra.in/",
       "expectedStatus": [
         200
       ]
